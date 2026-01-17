@@ -6,7 +6,7 @@ Multi-threaded high-speed conversion. Halve the size of photos on your Mac and f
 
 ## Download
 
-[https://raz1ner.com/Awesome-Software/HEIC-Converte](https://raz1ner.com/Awesome-Software/HEIC-Converte)
+[https://raz1ner.com/Awesome-Software/HEIC-Converter](https://raz1ner.com/Awesome-Software/HEIC-Converter)
 
 ## Tutorial
 
